@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mek97.github.io/sitemap-index.xml
+Host: https://mek97.github.io

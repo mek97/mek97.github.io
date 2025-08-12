@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2018-04-01","title":"Android Tetris game","tech":["Java","Android"],"github":"https://github.com/mek97/tetris","external":null,"ios":"","android":"","company":""},"html":"<p>Built Tetris android mobile application</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","3391063840","3618961439","4112399270","604461682"]}

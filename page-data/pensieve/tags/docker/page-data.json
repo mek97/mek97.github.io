@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/pensieve/tags/docker/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Private 'pypiserver' with AWS S3 as backend storage","description":"Hack to host private pypi python package repository with S3 as storage backend","date":"2020-11-23","slug":"/pensieve/pypiserver-s3","tags":["Python","Pypi","Docker"]}}}]}},"pageContext":{"tag":"Docker"}},
+    "staticQueryHashes": ["1994492073","3391063840","3618961439","4112399270","604461682"]}
